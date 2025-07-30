@@ -7,8 +7,10 @@
 - Voice-face Representation Learning 
 - Voice-face Cross-modal Mapping 
 
+# Get dataset
+- Download the [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html), [VGGFace](https://www.dropbox.com/s/bqsimq20jcjz1z9/VGG_ALL_FRONTAL.zip?dl=0)
+  
 # List of Papers
-
 If there are any errors in the paper descriptions or omissions, please feel free to leave a comment to supplement them.
 
 
