@@ -34,11 +34,22 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Zhu B, Xu K, Wang C, et al. Unsupervised voice-face representation learning by cross-modal prototype contrast[C]//Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, {IJCAI} 2022:3787--3794| [code](https://github.com/Cocoxili/CMPC) |
 |Yu Z, Liu X, Cheung Y M, et al. Detach and enhance: Learning disentangled cross-modal latent representation for efficient face-voice association and matching[C]//2022 IEEE International Conference on Data Mining (ICDM). IEEE, 2022: 648-655.| ❎|
 |Wang J, Li C, Zheng A, et al. Looking and hearing into details: Dual-enhanced Siamese adversarial network for audio-visual matching[J]. IEEE Transactions on Multimedia, 2023, 25: 7505-7516.| [code](https://github.com/w1018979952/DSANet) |
-|Saeed M S, Nawaz S, Khan M H, et al. Single-branch network for multimodal training[C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. | [code](https://github.com/msaadsaeed/SBNet)  |
+|Saeed M S, Nawaz S, Khan M H, et al. Single-branch network for multimodal training[C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. |[code](https://github.com/msaadsaeed/SBNet)  |
+|Chen G, Liu X, Xu X, et al. Taking a Part for the Whole: An Archetype-agnostic Framework for Voice-Face Association[C]//Proceedings of the 31st ACM International Conference on Multimedia. 2023: 7056-7064.|[code](https://github.com/Gwiths/Taking-a-Part-for-the-Whole)|
+|Jing X, He L, Song Z, et al. Audio–Visual Fusion Based on Interactive Attention for Person Verification[J]. Sensors, 2023, 23(24): 9845.| ❎|
 |Zheng A, Yuan F, Zhang H, et al. Public-private attributes-based variational adversarial network for audio-visual cross-modal matching[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(9): 8698-8709. |❎|
 |Wang J, Zheng A, Yan Y, et al. Attribute-guided cross-modal interaction and enhancement for audio-visual matching[J]. IEEE Transactions on Information Forensics and Security, 2024, 19: 4986-4998.|[code](https://github.com/w1018979952/ACIENet)|
 |Zhang H, Wang J, Shi H, et al. Attention-Guided Contrastive Masked Autoencoders for Self-supervised Cross-Modal Biometric Matching[C]//International Conference on Digital Forensics and Cyber Crime. Cham: Springer Nature Switzerland, 2024: 162-173. |❎|
+|Tang J, Wang X, Xiao Z, et al. Exploring Robust Face-Voice Matching in Multilingual Environments[C]//Proceedings of the 32nd ACM International Conference on Multimedia. 2024: 11335-11341.|[code](https://github.com/cnzvan/Exploring-Robust-Face-Voice-Matching-in-Multilingual-Environments)|
+|Sun J, Su J. Unsupervised Multi-level Search and Correspondence for Generic Voice-Face Feature Spaces[C]//International Conference on Pattern Recognition. Cham: Springer Nature Switzerland, 2024: 219-232.|❎|
+|Chen W, Sun Y, Xu K, et al. Contrastive Learning-based Chaining-Cluster for Multilingual Voice-Face Association[C]//Proceedings of the 32nd ACM International Conference on Multimedia. 2024: 11348-11354.|❎|
+|Chen W, Xu K, Dou Y, et al. Voice-to-Face Generation: Couple of Self-Supervised Representation Learning with Diffusion Model[C]//2024 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2024: 1-6.|❎|
+|Chen W, Zhu B, Xu K, et al. VoiceStyle: Voice-based face generation via cross-modal prototype contrastive learning[J]. ACM Transactions on Multimedia Computing, Communications and Applications, 2024, 20(9): 1-23.|❎|
+|Tao R, Shi Z, Jiang Y, et al. Multi-stage Face-voice Association Learning with Keynote Speaker Diarization[C]//Proceedings of the 32nd ACM International Conference on Multimedia. 2024: 11342-11347.|[code](https://github.com/TaoRuijie/MFV-KSD)|
+|Kim T, Kang J. Face and voice cross-modal association with learning convex feature embedding[J]. Multimedia Systems, 2025, 31(4): 296.|❎|
 |Wang J, Zheng A, Liu L, et al. Adaptive Interaction and Correction Attention Network for Audio-Visual Matching[J]. IEEE Transactions on Information Forensics and Security, vol. 20, pp. 7558-7571, 2025, doi: 10.1109/TIFS.2025.3586484| [code](https://github.com/w1018979952/AICANet)|
+
+
 
 ##  Benchmarks
 ### Voice-Face Association Learning Evaluation
