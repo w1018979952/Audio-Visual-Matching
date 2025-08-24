@@ -11,22 +11,22 @@
 - Download the [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html), [VGGFace](https://www.dropbox.com/s/bqsimq20jcjz1z9/VGG_ALL_FRONTAL.zip?dl=0)
 
 #  VoxCeleb1
-wav audio data, 1,251 people in total, 39 GB after decompression.
-Baidu Cloud link: [VoxCeleb1] (https://pan.baidu.com/s/1DtNDgQHfUmlbGsLsKA2nqA?pwd=wsie)
-Decompression command:
-zip -s 0 split.zip --out unsplit.zip
-unzip unslit.zip
+- wav audio data, 1,251 people in total, 39 GB after decompression.
+- Baidu Cloud link: [VoxCeleb1] (https://pan.baidu.com/s/1DtNDgQHfUmlbGsLsKA2nqA?pwd=wsie)
+- Decompression command:
+- zip -s 0 split.zip --out unsplit.zip
+- unzip unslit.zip
 
-Vox1 official website: [VoxCeleb1](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
+- Vox1 official website: [VoxCeleb1] (https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html)
 
 # VoxCeleb2
-MP4 video data, files include audio, total of 5,994 people, 255 GB after decompression.
-Baidu Cloud link: [VoxCeleb2](https://pan.baidu.com/s/1o6AdzvkAsFY0fOByO6kMdQ?pwd=69q6)
-Decompression command:
-zip -s 0 vox2_mp4_dev.zip --out unsplit.zip
-unzip unslit.zip
+- MP4 video data, files include audio, total of 5,994 people, 255 GB after decompression.
+- Baidu Cloud link: [VoxCeleb2] (https://pan.baidu.com/s/1o6AdzvkAsFY0fOByO6kMdQ?pwd=69q6)
+- Decompression command:
+- zip -s 0 vox2_mp4_dev.zip --out unsplit.zip
+- unzip unslit.zip
 
-Vox2 official website: [VoxCeleb2](https://link.zhihu.com/?target=https%3A//www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
+- Vox2 official website: [VoxCeleb2] (https://link.zhihu.com/?target=https%3A//www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html)
   
 # List of Papers
 If there are any errors in the paper descriptions or omissions, please feel free to leave a comment to supplement them.
