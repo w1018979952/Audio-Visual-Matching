@@ -69,6 +69,8 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Tao R, Shi Z, Jiang Y, et al. Multi-stage Face-voice Association Learning with Keynote Speaker Diarization[C]//Proceedings of the 32nd ACM International Conference on Multimedia. 2024: 11342-11347.|[code](https://github.com/TaoRuijie/MFV-KSD)|
 |Kim T, Kang J. Face and voice cross-modal association with learning convex feature embedding[J]. Multimedia Systems, 2025, 31(4): 296.|❎|
 |Wang J, Zheng A, Liu L, et al. Adaptive Interaction and Correction Attention Network for Audio-Visual Matching[J]. IEEE Transactions on Information Forensics and Security, vol. 20, pp. 7558-7571, 2025, doi: 10.1109/TIFS.2025.3586484| [code](https://github.com/w1018979952/AICANet)|
+|Hannan A, Manzoor M A, Nawaz S, et al. PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association[J]. arXiv preprint arXiv:2505.17002, 2025.|❎|
+|Liu Y, Fang Y, Lin Z. MuteSwap: Silent Face-based Voice Conversion[J]. arXiv preprint arXiv:2507.00498, 2025.| [code]([https://github.com/PussyCat0700/DiVISe)|
 
 
 
