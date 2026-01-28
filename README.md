@@ -72,6 +72,8 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Wang J, Zheng A, Liu L, et al. Adaptive Interaction and Correction Attention Network for Audio-Visual Matching[J]. IEEE Transactions on Information Forensics and Security, vol. 20, pp. 7558-7571, 2025, doi: 10.1109/TIFS.2025.3586484| [code](https://github.com/w1018979952/AICANet)|
 |Hannan A, Manzoor M A, Nawaz S, et al. PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association[C]. Interspeech, 2025, 2710--2714.|[code](https://github.com/hannabdul/paeff)|
 |Liu Y, Fang Y, Lin Z. MuteSwap: Silent Face-based Voice Conversion[J]. arXiv preprint arXiv:2507.00498, 2025.|[code](https://github.com/PussyCat0700/DiVISe)|
+|Fang Z, Tao S, Wang J, et al. XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association[J]. arXiv preprint arXiv:2512.06757, 2025.|[code]([https://github.com/PunkMale/XM-ALIGN])|
+
 
 
 
