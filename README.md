@@ -73,7 +73,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Hannan A, Manzoor M A, Nawaz S, et al. PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association[C]. Interspeech, 2025, 2710--2714.|[code](https://github.com/hannabdul/paeff)|
 |Liu Y, Fang Y, Lin Z. MuteSwap: Silent Face-based Voice Conversion[J]. arXiv preprint arXiv:2507.00498, 2025.|[code](https://github.com/PussyCat0700/DiVISe)|
 |Fang Z, Tao S, Wang J, et al. XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association[J]. arXiv preprint arXiv:2512.06757, 2025.|[code](https://github.com/PunkMale/XM-ALIGN)|
-|Liu Y, Fang Y, Lin Z. Visual-informed Silent Video Identity Conversion[C]//Proceedings of the 33rd ACM International Conference on Multimedia. 2025: 2104-2112.|❎|
+|Liu Y, Fang Y, Lin Z. Visual-informed Silent Video Identity Conversion[C]//Proceedings of the 33rd ACM International Conference on Multimedia. 2025: 2104-2112.|[code](https://pussycat0700.github.io/MuteSwap-Demo/)|
 
 
 
