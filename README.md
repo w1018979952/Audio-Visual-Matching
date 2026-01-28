@@ -74,6 +74,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Liu Y, Fang Y, Lin Z. MuteSwap: Silent Face-based Voice Conversion[J]. arXiv preprint arXiv:2507.00498, 2025.|[code](https://github.com/PussyCat0700/DiVISe)|
 |Fang Z, Tao S, Wang J, et al. XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association[J]. arXiv preprint arXiv:2512.06757, 2025.|[code](https://github.com/PunkMale/XM-ALIGN)|
 |Liu Y, Fang Y, Lin Z. Visual-informed Silent Video Identity Conversion[C]//Proceedings of the 33rd ACM International Conference on Multimedia. 2025: 2104-2112.|[code](https://pussycat0700.github.io/MuteSwap-Demo/)|
+|Zhang Z, Naito K, Dahmani H. Contrastive gated fusion for multilingual speaker verification[J]. Authorea Preprints, 2025.|[code](https://github.com/Hansuper666/Contrastive-Gated-Fusion-for-Multilingual-Speaker-Verification)|
 
 
 
