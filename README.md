@@ -76,7 +76,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Liu Y, Fang Y, Lin Z. Visual-informed Silent Video Identity Conversion[C]//Proceedings of the 33rd ACM International Conference on Multimedia. 2025: 2104-2112.|[code](https://pussycat0700.github.io/MuteSwap-Demo/)|
 |Zhang Z, Naito K, Dahmani H. Contrastive gated fusion for multilingual speaker verification[J]. Authorea Preprints, 2025.|[code](https://github.com/Hansuper666/Contrastive-Gated-Fusion-for-Multilingual-Speaker-Verification)|
 |Wang, J., Zheng, A., Li, D., Li, C., Cheng, W., & He, R. (2026). Bidirectional intervention attention network for audio-visual matching. Pattern Recognition, 113840.|[code](https://github.com/w1018979952/BIANet)|
-|Donatus, Rexcharles Enyinna, et al. "A Structured Survey of Attention Mechanisms in Audio-Visual Fusion: Architectures, Challenges, and Evaluation Frameworks." Scientific Journal of Computer Science 2.2 (2026): 237-252.|[code]()|
+|Donatus, Rexcharles Enyinna, et al. "A Structured Survey of Attention Mechanisms in Audio-Visual Fusion: Architectures, Challenges, and Evaluation Frameworks." Scientific Journal of Computer Science 2.2 (2026): 237-252.|❎|
 
 
 
