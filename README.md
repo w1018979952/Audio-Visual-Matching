@@ -80,6 +80,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Donatus, Rexcharles Enyinna, et al. "A Structured Survey of Attention Mechanisms in Audio-Visual Fusion: Architectures, Challenges, and Evaluation Frameworks." Scientific Journal of Computer Science 2.2 (2026): 237-252.|❎|
 |Wen, Xiaofei, et al. "When Vision Speaks for Sound." arXiv preprint arXiv:2605.16403 (2026).|[code](https://github.com/rakanWen/wvs-code)|
 |Ma Q, Wang Y, Sun X, et al. Vox2Face: Speech-Driven Face Generation via Identity-Space Alignment and Diffusion Self-Consistency[J]. Information, 2026, 17(2): 200.|❎|
+|Radevski G, Popordanoska T, Blaschko M, et al. Dave: Diagnostic benchmark for audio visual evaluation[J]. Advances in Neural Information Processing Systems, 2026, 38.|[code](https://github.com/gorjanradevski/dave)|
 
 
 
