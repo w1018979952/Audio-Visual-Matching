@@ -83,6 +83,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Radevski G, Popordanoska T, Blaschko M, et al. Dave: Diagnostic benchmark for audio visual evaluation[J]. Advances in Neural Information Processing Systems, 2026, 38.|[code](https://github.com/gorjanradevski/dave)|
 |Qin Y, Liu K, Wu S, et al. Audio-Visual Intelligence in Large Foundation Models[J]. arXiv preprint arXiv:2605.04045, 2026.|[code](https://github.com/JavisVerse/Awesome-AVI)|
 |Li C, Chen Y, Ji Y, et al. Omnivideobench: Towards audio-visual understanding evaluation for omni mllms[J]. arXiv preprint arXiv:2510.10689, 2025.|[code](https://github.com/NJU-LINK/OmniVideoBench)|
+|Xie T, Huang J, Ma Y, et al. SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models[J]. arXiv preprint arXiv:2603.16859, 2026.|[code](https://github.com/MAC-AutoML/SocialOmni)|
 
 
 
