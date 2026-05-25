@@ -87,6 +87,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Dai Y, Wu Z, Zeng B, et al. LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning[J]. arXiv preprint arXiv:2605.22012, 2026.|❎|
 |Jung C, Rho K, Chung J S. Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs[J]. arXiv preprint arXiv:2605.11605, 2026.|❎|
 |Tao K, Du W, Yu B, et al. OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding[J]. arXiv preprint arXiv:2512.23646, 2025.|❎|
+|Li Y, Chen X, Jiang S, et al. Uni-moe-2.0-omni: Scaling language-centric omnimodal large model with advanced moe, training and data[J]. arXiv preprint arXiv:2511.12609, 2025.|[code](https://github.com/HITsz-TMG/Uni-MoE)|
 
 
 
