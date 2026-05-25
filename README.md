@@ -84,6 +84,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Qin Y, Liu K, Wu S, et al. Audio-Visual Intelligence in Large Foundation Models[J]. arXiv preprint arXiv:2605.04045, 2026.|[code](https://github.com/JavisVerse/Awesome-AVI)|
 |Li C, Chen Y, Ji Y, et al. Omnivideobench: Towards audio-visual understanding evaluation for omni mllms[J]. arXiv preprint arXiv:2510.10689, 2025.|[code](https://github.com/NJU-LINK/OmniVideoBench)|
 |Xie T, Huang J, Ma Y, et al. SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models[J]. arXiv preprint arXiv:2603.16859, 2026.|[code](https://github.com/MAC-AutoML/SocialOmni)|
+|Dai Y, Wu Z, Zeng B, et al. LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning[J]. arXiv preprint arXiv:2605.22012, 2026.|❎|
 
 
 
