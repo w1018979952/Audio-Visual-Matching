@@ -86,6 +86,7 @@ If there are any errors in the paper descriptions or omissions, please feel free
 |Xie T, Huang J, Ma Y, et al. SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models[J]. arXiv preprint arXiv:2603.16859, 2026.|[code](https://github.com/MAC-AutoML/SocialOmni)|
 |Dai Y, Wu Z, Zeng B, et al. LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning[J]. arXiv preprint arXiv:2605.22012, 2026.|❎|
 |Jung C, Rho K, Chung J S. Keep What Audio Cannot Say: Context-Preserving Token Pruning for Omni-LLMs[J]. arXiv preprint arXiv:2605.11605, 2026.|❎|
+|Tao K, Du W, Yu B, et al. OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding[J]. arXiv preprint arXiv:2512.23646, 2025.|❎|
 
 
 
